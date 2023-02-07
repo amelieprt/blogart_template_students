@@ -89,7 +89,7 @@ include '../../header.php';
                             <td>
                                 <a href="/views/backend/keywords/list.php" class="btn btn-primary">List</a>
                                 <a href="/views/backend/keywords/create.php" class="btn btn-success">Create</a>
-                                <a href="/views/backend/keywords/edit.php" class="btn btn-warning disabled">Edit</a>
+                                <a href="/views/backend/keywords/edit.php" class="btn btn-warning">Edit</a>
                                 <a href="/views/backend/keywords/delete.php" class="btn btn-danger">Delete</a>
                             </td>
                             <td></td>
